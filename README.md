@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-ML engineering and nice UIs
+Excited about infrastructure, ai, and new user interfaces
