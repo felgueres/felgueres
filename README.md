@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-infra, ai, and user interfaces
+infra, ai, and interfaces
