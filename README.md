@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-infra, ai, and interfaces
+I like infra, ai, and interfaces
